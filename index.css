@@ -10,6 +10,8 @@
 nav {
     background-color: rgb(39, 230, 134);
     height: 10vh;
+    position: sticky;
+    top: 0;
 }
 
 
@@ -93,3 +95,7 @@ aside img {
     height: 59vh;
     justify-content: center;
 }
+
+
+
+/* PAGE 2 CSS */ /* PAGE 2 CSS */ /* PAGE 2 CSS */  /* PAGE 2 CSS */ /* PAGE 2 CSS */ /* PAGE 2 CSS */ 
