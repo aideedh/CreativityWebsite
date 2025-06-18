@@ -7,7 +7,7 @@ It showcases individual work demonstrating creative thinking, problem analysis, 
 
 ##  Live Demo
 
-> [View the Website on GitHub Pages](aideedh.github.io/CreativityWebsite/)  
+> [View the Website on GitHub Pages](https://aideedh.github.io/CreativityWebsite/)  
 
 ---
 
