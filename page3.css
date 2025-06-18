@@ -32,7 +32,7 @@ nav a {
 
     color: rgb(42, 130, 80);
     font-size: 20px;
-    font-size: bolder;
+    font-weight: bold;
 }
 
 nav a:hover {
@@ -89,9 +89,8 @@ li img {
     background-color: rgba(255, 255, 255, 0.8); /* white with 80% opacity */
     border: black solid 3px;
     padding: 20px;
-    height: 500px;              /* fixed height */
-    width: 50%;                /* or a fixed width like 500px */
-    overflow-y: auto;           /* vertical scroll */
+    height: 500px;             
+    width: 50%;           
     padding: 1rem;
     margin: 10px;
 }
