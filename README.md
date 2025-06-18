@@ -1,6 +1,6 @@
 #  Principles of Creative Problem Solving – Portfolio Website
 
-This is a personal portfolio website created for the **Creativity Assignment – Individual Portfolio** as part of the **Principles of Creative Problem Solving** course at Sheridan College.  
+This is a personal portfolio website created for the **Creativity Assignment – Individual Portfolio** as part of the **Principles of Creative Problem Solving** course.  
 It showcases individual work demonstrating creative thinking, problem analysis, and ideation strategies.
 
 ---
