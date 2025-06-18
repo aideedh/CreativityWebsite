@@ -1,25 +1,86 @@
-.how {
-    text-align: center;
-    background-image: url(assets/page2back.jpg);
-    height: 50vw;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-.how h1 {
+
+nav {
+    background-color: rgb(84, 235, 46);
+    height: 10vh;
+    position: sticky;
+    top: 0;
+}
+
+
+nav ul {
+    /* Removes bullet points */
+    list-style: none;
+
+    /* display to inline (flex - side by side)  */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    gap: 4rem;
+    padding-top: 25px;
+}
+
+nav a {
+    /* Removes underline */
+    text-decoration: none;
+
+    color: rgb(42, 130, 80);
+    font-size: 20px;
+    font-size: bolder;
+}
+
+nav a:hover {
+    color: rgb(11, 3, 3);
+    text-decoration: underline;
+}
+
+ /*    icon 
+li img {
+    width: 50px;
+    height: 50px;
+}
+ */
+
+.move {
+    padding-top: 20px;
+    text-align: center;
+    background-image: url(assets/pg3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 40vw;
+}
+
+.this {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: rgba(255, 255, 255, 0.8); /* white with 80% opacity */
-
+    text-align: center;
 }
 
 .how table {
-    padding-top: 40px;
+    padding-top: 20px;
     padding-left: 20px;
     padding-right: 20px;
 }
 .how td {
     background-color: rgba(255, 255, 255, 0.8); /* white with 80% opacity */
     border-radius: 20px;
-    padding-top: 40px;
+    padding: 20px;
+    font-size: 18px;
     border: black solid 3px;
+}
+
+.move {
+    display: flex;
+    justify-content: right;
+    padding-top: 60px;
+    padding-right: 40px;
 }
 
 .chosen {
@@ -28,4 +89,10 @@
     background-color: rgba(255, 255, 255, 0.8); /* white with 80% opacity */
     border: black solid 3px;
     padding: 20px;
+    height: 500px;              /* fixed height */
+    width: 50%;                /* or a fixed width like 500px */
+    overflow-y: auto;           /* vertical scroll */
+    padding: 1rem;
+    margin: 10px;
 }
+

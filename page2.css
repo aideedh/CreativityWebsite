@@ -8,7 +8,7 @@
 
 
 nav {
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(40, 144, 64);
     height: 10vh;
     position: sticky;
     top: 0;
@@ -28,11 +28,13 @@ nav ul {
     padding-top: 25px;
 }
 
+
+
 nav a {
     /* Removes underline */
     text-decoration: none;
 
-    color: rgb(231, 150, 51);
+    color: rgb(236, 227, 216);
     font-size: 20px;
     font-size: bolder;
 }
@@ -50,7 +52,6 @@ section {
 section h1 {
     font-size: 30px;
 }
-
 
 
 
