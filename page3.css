@@ -1,13 +1,31 @@
-.scroll {
-    height: 300px;
-    overflow-y: auto;
-    padding: 2rem;
-    background-color: rgba(255, 255, 255, 0.8); /* white with 60% opacity */   
-    border: 1px solid #ccc;
-    width: 50vw;
-    font-size: 20px;
+.how {
+    text-align: center;
+    background-image: url(assets/page2back.jpg);
+    height: 50vw;
 }
 
-.scroll h1,p {
-    margin: 4px;
+.how h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgba(255, 255, 255, 0.8); /* white with 80% opacity */
+
+}
+
+.how table {
+    padding-top: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.how td {
+    background-color: rgba(255, 255, 255, 0.8); /* white with 80% opacity */
+    border-radius: 20px;
+    padding-top: 40px;
+    border: black solid 3px;
+}
+
+.chosen {
+    font-size: 24px;
+    margin: 40px;
+    background-color: rgba(255, 255, 255, 0.8); /* white with 80% opacity */
+    border: black solid 3px;
+    padding: 20px;
 }
