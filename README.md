@@ -25,3 +25,5 @@ GitHub: @aideedh
 ---
 
 This is not a serious attempt -  Im doing this with a severe lack of sleep after miderms just to finish it in 1-2 days
+
+(This isn't mobile friendly at all, don't blame me 😭)
