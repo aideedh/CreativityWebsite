@@ -74,6 +74,12 @@ main img {
     height: 160px;
 }
 
+
+.main audio {
+    padding-top: 20px;
+}
+
+
 .introContainer {
     display: flex;
 }
